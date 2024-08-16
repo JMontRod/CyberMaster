@@ -1,4 +1,5 @@
-# CyberMaster
+
+![](/Imagenes/Imagen1.png)
 ## Descripción del proyecto
 CyberMaster es un proyecto creado como actividad final del Módulo MIA en el curso de IA y Big Data en el IES Rafael Alberti. Como su nombre indica tiene que ver con el campo de la ciberseguridad, específicamente centrado en los SOC.
 ## Por que CyberMaster
