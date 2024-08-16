@@ -10,3 +10,4 @@ El proyecto tiene su codigo basado en python, tanto como el propio codigo usado 
 ## DISCLAIMER
 El proyecto no esta terminado debido a la falta de fondos para poder seguir usando el modelo de lenguaje
 
+> Proyecto realizado por José Antonio Montero Rodríguez
